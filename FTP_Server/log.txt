@@ -1,0 +1,5 @@
+2021-12-23 13:31:09.866195: Директория пользователя C:\Users\Руслан\PycharmProjects\practuicum_2\FTP_Server\docs
+2021-12-23 13:31:56.223669: Директория пользователя C:\Users\Руслан\PycharmProjects\practuicum_2\FTP_Server\docs
+2021-12-23 13:32:00.421866: Содержимое директории C:\Users\Руслан\PycharmProjects\practuicum_2\FTP_Server\docs:
+
+2021-12-23 13:32:46.254583: Создана папка C:\Users\Руслан\PycharmProjects\practuicum_2\FTP_Server\docs\new_dir
