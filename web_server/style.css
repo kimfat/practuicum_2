@@ -1,23 +1,23 @@
 body {
     text-align: center;
-	background-color: #00FF00;
-	color: #8B0000;
+	background-color: #EEEEEE;
+	color: #305e86;
    }
    
 a:link {
 	font-size:16px; 
-	color:#A52A2A;
+	color:#305e86;
 	font-weight:bold
 	}
 a:hover {
 	font-size:16px; 
-	color:#800000;
+	color: #1f5177;
 	font-weight:bold
 	}
 	
 a:visited {
 	font-size:16px; 
-	color:#DC143C; 
+	color: #559ad6;
 	font-weight:bold
 	}
 	
